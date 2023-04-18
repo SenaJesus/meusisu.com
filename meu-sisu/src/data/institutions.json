@@ -1,0 +1,737 @@
+[
+  {
+    "estado": { "sigla": "RJ", "estado": "Rio de Janeiro" },
+    "universidade": "Centro Federal de Educação Tecnológica Celso Suckow da Fonseca - CEFET/RJ",
+    "universidade_id": "593"
+  },
+  {
+    "estado": { "sigla": "MG", "estado": "Minas Gerais" },
+    "universidade": "Centro Federal de Educação Tecnológica de Minas Gerais - CEFET/MG",
+    "universidade_id": "594"
+  },
+  {
+    "estado": { "sigla": "RJ", "estado": "Rio de Janeiro" },
+    "universidade": "Centro Universitário Estadual da Zona Oeste - UEZO",
+    "universidade_id": "5013"
+  },
+  {
+    "estado": { "sigla": "RJ", "estado": "Rio de Janeiro" },
+    "universidade": "Colégio Pedro ii - CP II",
+    "universidade_id": "21503"
+  },
+  {
+    "estado": { "sigla": "RJ", "estado": "Rio de Janeiro" },
+    "universidade": "Escola Nacional de Ciências Estatísticas - ENCE",
+    "universidade_id": "26"
+  },
+  {
+    "estado": { "sigla": "DF", "estado": "Distrito Federal" },
+    "universidade": "Escola Superior de Ciências da Saúde - ESCS",
+    "universidade_id": "3223"
+  },
+  {
+    "estado": { "sigla": "DF", "estado": "Distrito Federal" },
+    "universidade": "Escola Superior de Gestão - ESGe",
+    "universidade_id": "23725"
+  },
+  {
+    "estado": { "sigla": "SP", "estado": "São Paulo" },
+    "universidade": "Faculdade Municipal Professor Franco Montoro de Mogi Guaçu - FMPFM",
+    "universidade_id": "1876"
+  },
+  {
+    "estado": { "sigla": "PR", "estado": "Paraná" },
+    "universidade": "Faculdade Municipal de Educação e Meio Ambiente - FAMA",
+    "universidade_id": "22015"
+  },
+  {
+    "estado": { "sigla": "RJ", "estado": "Rio de Janeiro" },
+    "universidade": "Faculdade de Educação Tecnológica do Estado do Rio de Janeiro - FAETERJ CAXIAS",
+    "universidade_id": "19588"
+  },
+  {
+    "estado": { "sigla": "RJ", "estado": "Rio de Janeiro" },
+    "universidade": "Faculdade de Educação Tecnológica do Estado do Rio de Janeiro - FAETERJ PARACAMBI",
+    "universidade_id": "5053"
+  },
+  {
+    "estado": { "sigla": "RJ", "estado": "Rio de Janeiro" },
+    "universidade": "Faculdade de Educação Tecnológica do Estado do Rio de Janeiro - FAETERJ PETRÓPOLIS",
+    "universidade_id": "5017"
+  },
+  {
+    "estado": { "sigla": "RJ", "estado": "Rio de Janeiro" },
+    "universidade": "Faculdade de Educação Tecnológica do Estado do Rio de Janeiro Fernando Mota - FAETERJ-Rio",
+    "universidade_id": "5016"
+  },
+  {
+    "estado": { "sigla": "SP", "estado": "São Paulo" },
+    "universidade": "Faculdade de Medicina de Marília - FAMEMA",
+    "universidade_id": "431"
+  },
+  {
+    "estado": { "sigla": "MS", "estado": "Mato Grosso do Sul" },
+    "universidade": "Fundação Universidade Federal da Grande Dourados - UFGD",
+    "universidade_id": "4504"
+  },
+  {
+    "estado": { "sigla": "RS", "estado": "Rio Grande do Sul" },
+    "universidade": "Fundação Universidade Federal de Ciências da Saúde de Porto Alegre - UFCSPA",
+    "universidade_id": "717"
+  },
+  {
+    "estado": { "sigla": "SP", "estado": "São Paulo" },
+    "universidade": "Fundação Universidade Federal do Abc - UFABC",
+    "universidade_id": "4925"
+  },
+  {
+    "estado": { "sigla": "RS", "estado": "Rio Grande do Sul" },
+    "universidade": "Fundação Universidade Federal do Pampa - UNIPAMPA",
+    "universidade_id": "5322"
+  },
+  {
+    "estado": { "sigla": "TO", "estado": "Tocantins" },
+    "universidade": "Fundação Universidade Federal do Tocantins - UFT",
+    "universidade_id": "3849"
+  },
+  {
+    "estado": { "sigla": "PE", "estado": "Pernambuco" },
+    "universidade": "Fundação Universidade Federal do Vale do São Francisco - UNIVASF",
+    "universidade_id": "3984"
+  },
+  {
+    "estado": { "sigla": "BA", "estado": "Bahia" },
+    "universidade": "Fundação Universidade Federal do Vale do São Francisco - UNIVASF",
+    "universidade_id": "3984"
+  },
+  {
+    "estado": { "sigla": "PI", "estado": "Piauí" },
+    "universidade": "Fundação Universidade Federal do Vale do São Francisco - UNIVASF",
+    "universidade_id": "3984"
+  },
+  {
+    "estado": { "sigla": "SC", "estado": "Santa Catarina" },
+    "universidade": "Fundação Universidade do Estado de Santa Catarina - UDESC",
+    "universidade_id": "43"
+  },
+  {
+    "estado": { "sigla": "DF", "estado": "Distrito Federal" },
+    "universidade": "Instituto Federal de Educação, Ciencia e Tecnologia de Brasilia - IFB",
+    "universidade_id": "14408"
+  },
+  {
+    "estado": { "sigla": "PB", "estado": "Paraíba" },
+    "universidade": "Instituto Federal de Educação, Ciência e Tecnologia  da Paraíba - IFPB",
+    "universidade_id": "1166"
+  },
+  {
+    "estado": { "sigla": "SC", "estado": "Santa Catarina" },
+    "universidade": "Instituto Federal de Educação, Ciência e Tecnologia  de Santa Catarina - IFSC",
+    "universidade_id": "3162"
+  },
+  {
+    "estado": { "sigla": "AM", "estado": "Amazonas" },
+    "universidade": "Instituto Federal de Educação, Ciência e Tecnologia  do Amazonas - IFAM",
+    "universidade_id": "1812"
+  },
+  {
+    "estado": { "sigla": "MG", "estado": "Minas Gerais" },
+    "universidade": "Instituto Federal de Educação, Ciência e Tecnologia  do Triângulo Mineiro - IFTM",
+    "universidade_id": "3165"
+  },
+  {
+    "estado": { "sigla": "BA", "estado": "Bahia" },
+    "universidade": "Instituto Federal de Educação, Ciência e Tecnologia Baiano - IFBAIANO",
+    "universidade_id": "14509"
+  },
+  {
+    "estado": { "sigla": "SC", "estado": "Santa Catarina" },
+    "universidade": "Instituto Federal de Educação, Ciência e Tecnologia Catarinense - IF Catarinense",
+    "universidade_id": "5036"
+  },
+  {
+    "estado": { "sigla": "RS", "estado": "Rio Grande do Sul" },
+    "universidade": "Instituto Federal de Educação, Ciência e Tecnologia Farroupilha - IFFarroupilha",
+    "universidade_id": "4098"
+  },
+  {
+    "estado": { "sigla": "RJ", "estado": "Rio de Janeiro" },
+    "universidade": "Instituto Federal de Educação, Ciência e Tecnologia Fluminense - IF Fluminense",
+    "universidade_id": "1120"
+  },
+  {
+    "estado": { "sigla": "GO", "estado": "Goiás" },
+    "universidade": "Instituto Federal de Educação, Ciência e Tecnologia Goiano - IF Goiano",
+    "universidade_id": "1303"
+  },
+  {
+    "estado": { "sigla": "RS", "estado": "Rio Grande do Sul" },
+    "universidade": "Instituto Federal de Educação, Ciência e Tecnologia Sul-rio-grandense",
+    "universidade_id": "1578"
+  },
+  {
+    "estado": { "sigla": "BA", "estado": "Bahia" },
+    "universidade": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia - IFBA",
+    "universidade_id": "599"
+  },
+  {
+    "estado": { "sigla": "AL", "estado": "Alagoas" },
+    "universidade": "Instituto Federal de Educação, Ciência e Tecnologia de Alagoas - IFAL",
+    "universidade_id": "3160"
+  },
+  {
+    "estado": { "sigla": "GO", "estado": "Goiás" },
+    "universidade": "Instituto Federal de Educação, Ciência e Tecnologia de Goiás - IFG",
+    "universidade_id": "1811"
+  },
+  {
+    "estado": { "sigla": "MS", "estado": "Mato Grosso do Sul" },
+    "universidade": "Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul - IFMS",
+    "universidade_id": "15520"
+  },
+  {
+    "estado": { "sigla": "MG", "estado": "Minas Gerais" },
+    "universidade": "Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais - IFMG",
+    "universidade_id": "3189"
+  },
+  {
+    "estado": { "sigla": "PE", "estado": "Pernambuco" },
+    "universidade": "Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco - IFPE",
+    "universidade_id": "1809"
+  },
+  {
+    "estado": { "sigla": "RR", "estado": "Roraima" },
+    "universidade": "Instituto Federal de Educação, Ciência e Tecnologia de Roraima - IFRR",
+    "universidade_id": "3184"
+  },
+  {
+    "estado": { "sigla": "SE", "estado": "Sergipe" },
+    "universidade": "Instituto Federal de Educação, Ciência e Tecnologia de Sergipe - IFS",
+    "universidade_id": "3183"
+  },
+  {
+    "estado": { "sigla": "SP", "estado": "São Paulo" },
+    "universidade": "Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - IFSP",
+    "universidade_id": "1810"
+  },
+  {
+    "estado": { "sigla": "AC", "estado": "Acre" },
+    "universidade": "Instituto Federal de Educação, Ciência e Tecnologia do Acre - IFAC",
+    "universidade_id": "15507"
+  },
+  {
+    "estado": { "sigla": "AP", "estado": "Amapá" },
+    "universidade": "Instituto Federal de Educação, Ciência e Tecnologia do Amapá - IFAP",
+    "universidade_id": "15522"
+  },
+  {
+    "estado": { "sigla": "CE", "estado": "Ceará" },
+    "universidade": "Instituto Federal de Educação, Ciência e Tecnologia do Ceará - IFCE",
+    "universidade_id": "1807"
+  },
+  {
+    "estado": { "sigla": "ES", "estado": "Espírito Santo" },
+    "universidade": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo - IFES",
+    "universidade_id": "1808"
+  },
+  {
+    "estado": { "sigla": "MA", "estado": "Maranhão" },
+    "universidade": "Instituto Federal de Educação, Ciência e Tecnologia do Maranhão - IFMA",
+    "universidade_id": "600"
+  },
+  {
+    "estado": { "sigla": "MG", "estado": "Minas Gerais" },
+    "universidade": "Instituto Federal de Educação, Ciência e Tecnologia do Norte de Minas Gerais - IFNMG",
+    "universidade_id": "3188"
+  },
+  {
+    "estado": { "sigla": "PA", "estado": "Pará" },
+    "universidade": "Instituto Federal de Educação, Ciência e Tecnologia do Pará - IFPA",
+    "universidade_id": "1813"
+  },
+  {
+    "estado": { "sigla": "PI", "estado": "Piauí" },
+    "universidade": "Instituto Federal de Educação, Ciência e Tecnologia do Piauí - IFPI",
+    "universidade_id": "1820"
+  },
+  {
+    "estado": { "sigla": "RN", "estado": "Rio Grande do Norte" },
+    "universidade": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte - IFRN",
+    "universidade_id": "1082"
+  },
+  {
+    "estado": { "sigla": "RJ", "estado": "Rio de Janeiro" },
+    "universidade": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro - IFRJ",
+    "universidade_id": "3163"
+  },
+  {
+    "estado": { "sigla": "PE", "estado": "Pernambuco" },
+    "universidade": "Instituto Federal de Educação, Ciência e Tecnologia do Sertão Pernambucano - IF Sertão",
+    "universidade_id": "3161"
+  },
+  {
+    "estado": { "sigla": "MG", "estado": "Minas Gerais" },
+    "universidade": "Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais - IFSEMG",
+    "universidade_id": "3279"
+  },
+  {
+    "estado": { "sigla": "MG", "estado": "Minas Gerais" },
+    "universidade": "Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais - IF SUL DE MINAS",
+    "universidade_id": "4358"
+  },
+  {
+    "estado": { "sigla": "TO", "estado": "Tocantins" },
+    "universidade": "Instituto Federal de Educação, Ciência e Tecnologia do Tocantins - IFTO",
+    "universidade_id": "4786"
+  },
+  {
+    "estado": { "sigla": "RJ", "estado": "Rio de Janeiro" },
+    "universidade": "Instituto Superior de Educação Professor Aldo Muylaert - ISEPAM",
+    "universidade_id": "5018"
+  },
+  {
+    "estado": { "sigla": "RJ", "estado": "Rio de Janeiro" },
+    "universidade": "Instituto Superior de Educação do Rio de Janeiro - ISERJ",
+    "universidade_id": "1357"
+  },
+  {
+    "estado": { "sigla": "PB", "estado": "Paraíba" },
+    "universidade": "Universidade Estadual da Paraíba - UEPB",
+    "universidade_id": "550"
+  },
+  {
+    "estado": { "sigla": "AL", "estado": "Alagoas" },
+    "universidade": "Universidade Estadual de Alagoas - UNEAL",
+    "universidade_id": "5242"
+  },
+  {
+    "estado": { "sigla": "AL", "estado": "Alagoas" },
+    "universidade": "Universidade Estadual de Ciências da Saúde de Alagoas - UNCISAL",
+    "universidade_id": "32"
+  },
+  {
+    "estado": { "sigla": "BA", "estado": "Bahia" },
+    "universidade": "Universidade Estadual de Feira de Santana - UEFS",
+    "universidade_id": "666"
+  },
+  {
+    "estado": { "sigla": "PR", "estado": "Paraná" },
+    "universidade": "Universidade Estadual de Londrina - UEL",
+    "universidade_id": "9"
+  },
+  {
+    "estado": { "sigla": "PR", "estado": "Paraná" },
+    "universidade": "Universidade Estadual de Maringá - UEM",
+    "universidade_id": "57"
+  },
+  {
+    "estado": { "sigla": "MS", "estado": "Mato Grosso do Sul" },
+    "universidade": "Universidade Estadual de Mato Grosso do Sul - UEMS",
+    "universidade_id": "1028"
+  },
+  {
+    "estado": { "sigla": "MG", "estado": "Minas Gerais" },
+    "universidade": "Universidade Estadual de Montes Claros - UNIMONTES",
+    "universidade_id": "367"
+  },
+  {
+    "estado": { "sigla": "BA", "estado": "Bahia" },
+    "universidade": "Universidade Estadual de Santa Cruz - UESC",
+    "universidade_id": "24"
+  },
+  {
+    "estado": { "sigla": "PR", "estado": "Paraná" },
+    "universidade": "Universidade Estadual do Centro Oeste - UNICENTRO",
+    "universidade_id": "1126"
+  },
+  {
+    "estado": { "sigla": "RJ", "estado": "Rio de Janeiro" },
+    "universidade": "Universidade Estadual do Norte Fluminense Darcy Ribeiro - UENF",
+    "universidade_id": "1027"
+  },
+  {
+    "estado": { "sigla": "PR", "estado": "Paraná" },
+    "universidade": "Universidade Estadual do Norte do Paraná - UENP",
+    "universidade_id": "15015"
+  },
+  {
+    "estado": { "sigla": "PR", "estado": "Paraná" },
+    "universidade": "Universidade Estadual do Oeste do Paraná - UNIOESTE",
+    "universidade_id": "609"
+  },
+  {
+    "estado": { "sigla": "PR", "estado": "Paraná" },
+    "universidade": "Universidade Estadual do Paraná - UNESPAR",
+    "universidade_id": "18492"
+  },
+  {
+    "estado": { "sigla": "PI", "estado": "Piauí" },
+    "universidade": "Universidade Estadual do Piauí - UESPI",
+    "universidade_id": "756"
+  },
+  {
+    "estado": { "sigla": "RS", "estado": "Rio Grande do Sul" },
+    "universidade": "Universidade Estadual do Rio Grande do Sul - UERGS",
+    "universidade_id": "3336"
+  },
+  {
+    "estado": { "sigla": "BA", "estado": "Bahia" },
+    "universidade": "Universidade Estadual do Sudoeste da Bahia - UESB",
+    "universidade_id": "688"
+  },
+  {
+    "estado": { "sigla": "TO", "estado": "Tocantins" },
+    "universidade": "Universidade Estadual do Tocantins - UNITINS",
+    "universidade_id": "829"
+  },
+  {
+    "estado": { "sigla": "MG", "estado": "Minas Gerais" },
+    "universidade": "Universidade Federal Dos Vales do Jequitinhonha e Mucuri - UFVJM",
+    "universidade_id": "596"
+  },
+  {
+    "estado": { "sigla": "RJ", "estado": "Rio de Janeiro" },
+    "universidade": "Universidade Federal Fluminense - UFF",
+    "universidade_id": "572"
+  },
+  {
+    "estado": { "sigla": "PA", "estado": "Pará" },
+    "universidade": "Universidade Federal Rural da Amazônia - UFRA",
+    "universidade_id": "590"
+  },
+  {
+    "estado": { "sigla": "PE", "estado": "Pernambuco" },
+    "universidade": "Universidade Federal Rural de Pernambuco - UFRPE",
+    "universidade_id": "587"
+  },
+  {
+    "estado": { "sigla": "RJ", "estado": "Rio de Janeiro" },
+    "universidade": "Universidade Federal Rural do Rio de Janeiro - UFRRJ",
+    "universidade_id": "574"
+  },
+  {
+    "estado": { "sigla": "RN", "estado": "Rio Grande do Norte" },
+    "universidade": "Universidade Federal Rural do Semi-árido",
+    "universidade_id": "589"
+  },
+  {
+    "estado": { "sigla": "BA", "estado": "Bahia" },
+    "universidade": "Universidade Federal da Bahia - UFBA",
+    "universidade_id": "578"
+  },
+  {
+    "estado": { "sigla": "RS", "estado": "Rio Grande do Sul" },
+    "universidade": "Universidade Federal da Fronteira Sul - UFFS",
+    "universidade_id": "15121"
+  },
+  {
+    "estado": { "sigla": "PR", "estado": "Paraná" },
+    "universidade": "Universidade Federal da Fronteira Sul - UFFS",
+    "universidade_id": "15121"
+  },
+  {
+    "estado": { "sigla": "SC", "estado": "Santa Catarina" },
+    "universidade": "Universidade Federal da Fronteira Sul - UFFS",
+    "universidade_id": "15121"
+  },
+  {
+    "estado": { "sigla": "PR", "estado": "Paraná" },
+    "universidade": "Universidade Federal da Integração Latino-americana",
+    "universidade_id": "15001"
+  },
+  {
+    "estado": { "sigla": "PB", "estado": "Paraíba" },
+    "universidade": "Universidade Federal da Paraíba - UFPB",
+    "universidade_id": "579"
+  },
+  {
+    "estado": { "sigla": "AL", "estado": "Alagoas" },
+    "universidade": "Universidade Federal de Alagoas - UFAL",
+    "universidade_id": "577"
+  },
+  {
+    "estado": { "sigla": "MG", "estado": "Minas Gerais" },
+    "universidade": "Universidade Federal de Alfenas - UNIFAL-MG",
+    "universidade_id": "595"
+  },
+  {
+    "estado": { "sigla": "PB", "estado": "Paraíba" },
+    "universidade": "Universidade Federal de Campina Grande - UFCG",
+    "universidade_id": "2564"
+  },
+  {
+    "estado": { "sigla": "GO", "estado": "Goiás" },
+    "universidade": "Universidade Federal de Catalão - UFCAT",
+    "universidade_id": "25274"
+  },
+  {
+    "estado": { "sigla": "GO", "estado": "Goiás" },
+    "universidade": "Universidade Federal de Goiás - UFG",
+    "universidade_id": "584"
+  },
+  {
+    "estado": { "sigla": "MG", "estado": "Minas Gerais" },
+    "universidade": "Universidade Federal de Itajubá - UNIFEI",
+    "universidade_id": "598"
+  },
+  {
+    "estado": { "sigla": "GO", "estado": "Goiás" },
+    "universidade": "Universidade Federal de Jataí - UFJ",
+    "universidade_id": "25282"
+  },
+  {
+    "estado": { "sigla": "MG", "estado": "Minas Gerais" },
+    "universidade": "Universidade Federal de Juiz de Fora - UFJF",
+    "universidade_id": "576"
+  },
+  {
+    "estado": { "sigla": "MG", "estado": "Minas Gerais" },
+    "universidade": "Universidade Federal de Lavras - UFLA",
+    "universidade_id": "592"
+  },
+  {
+    "estado": { "sigla": "MT", "estado": "Mato Grosso" },
+    "universidade": "Universidade Federal de Mato Grosso - UFMT",
+    "universidade_id": "1"
+  },
+  {
+    "estado": { "sigla": "MS", "estado": "Mato Grosso do Sul" },
+    "universidade": "Universidade Federal de Mato Grosso do Sul - UFMS",
+    "universidade_id": "694"
+  },
+  {
+    "estado": { "sigla": "MG", "estado": "Minas Gerais" },
+    "universidade": "Universidade Federal de Minas Gerais - UFMG",
+    "universidade_id": "575"
+  },
+  {
+    "estado": { "sigla": "MG", "estado": "Minas Gerais" },
+    "universidade": "Universidade Federal de Ouro Preto - UFOP",
+    "universidade_id": "6"
+  },
+  {
+    "estado": { "sigla": "RS", "estado": "Rio Grande do Sul" },
+    "universidade": "Universidade Federal de Pelotas - UFPEL",
+    "universidade_id": "634"
+  },
+  {
+    "estado": { "sigla": "PE", "estado": "Pernambuco" },
+    "universidade": "Universidade Federal de Pernambuco - UFPE",
+    "universidade_id": "580"
+  },
+  {
+    "estado": { "sigla": "MT", "estado": "Mato Grosso" },
+    "universidade": "Universidade Federal de Rondonópolis - UFR",
+    "universidade_id": "25352"
+  },
+  {
+    "estado": { "sigla": "RR", "estado": "Roraima" },
+    "universidade": "Universidade Federal de Roraima - UFRR",
+    "universidade_id": "789"
+  },
+  {
+    "estado": { "sigla": "SC", "estado": "Santa Catarina" },
+    "universidade": "Universidade Federal de Santa Catarina - UFSC",
+    "universidade_id": "585"
+  },
+  {
+    "estado": { "sigla": "RS", "estado": "Rio Grande do Sul" },
+    "universidade": "Universidade Federal de Santa Maria - UFSM",
+    "universidade_id": "582"
+  },
+  {
+    "estado": { "sigla": "SE", "estado": "Sergipe" },
+    "universidade": "Universidade Federal de Sergipe - UFS",
+    "universidade_id": "3"
+  },
+  {
+    "estado": { "sigla": "SP", "estado": "São Paulo" },
+    "universidade": "Universidade Federal de São Carlos - UFSCAR",
+    "universidade_id": "7"
+  },
+  {
+    "estado": { "sigla": "MG", "estado": "Minas Gerais" },
+    "universidade": "Universidade Federal de São João Del Rei - UFSJ",
+    "universidade_id": "107"
+  },
+  {
+    "estado": { "sigla": "SP", "estado": "São Paulo" },
+    "universidade": "Universidade Federal de São Paulo - UNIFESP",
+    "universidade_id": "591"
+  },
+  {
+    "estado": { "sigla": "MG", "estado": "Minas Gerais" },
+    "universidade": "Universidade Federal de Uberlândia - UFU",
+    "universidade_id": "17"
+  },
+  {
+    "estado": { "sigla": "MG", "estado": "Minas Gerais" },
+    "universidade": "Universidade Federal de Viçosa - UFV",
+    "universidade_id": "8"
+  },
+  {
+    "estado": { "sigla": "AC", "estado": "Acre" },
+    "universidade": "Universidade Federal do Acre - UFAC",
+    "universidade_id": "549"
+  },
+  {
+    "estado": { "sigla": "PE", "estado": "Pernambuco" },
+    "universidade": "Universidade Federal do Agreste de Pernambuco - UFAPE ",
+    "universidade_id": "25275"
+  },
+  {
+    "estado": { "sigla": "AP", "estado": "Amapá" },
+    "universidade": "Universidade Federal do Amapá - UNIFAP",
+    "universidade_id": "830"
+  },
+  {
+    "estado": { "sigla": "AM", "estado": "Amazonas" },
+    "universidade": "Universidade Federal do Amazonas - UFAM",
+    "universidade_id": "4"
+  },
+  {
+    "estado": { "sigla": "CE", "estado": "Ceará" },
+    "universidade": "Universidade Federal do Cariri - UFCA",
+    "universidade_id": "18759"
+  },
+  {
+    "estado": { "sigla": "CE", "estado": "Ceará" },
+    "universidade": "Universidade Federal do Ceará - UFC",
+    "universidade_id": "583"
+  },
+  {
+    "estado": { "sigla": "PI", "estado": "Piauí" },
+    "universidade": "Universidade Federal do Delta do Parnaiba - UFDPAR",
+    "universidade_id": "25277"
+  },
+  {
+    "estado": { "sigla": "ES", "estado": "Espírito Santo" },
+    "universidade": "Universidade Federal do Espírito Santo - UFES",
+    "universidade_id": "573"
+  },
+  {
+    "estado": { "sigla": "RJ", "estado": "Rio de Janeiro" },
+    "universidade": "Universidade Federal do Estado do Rio de Janeiro - UNIRIO",
+    "universidade_id": "693"
+  },
+  {
+    "estado": { "sigla": "MA", "estado": "Maranhão" },
+    "universidade": "Universidade Federal do Maranhão - UFMA",
+    "universidade_id": "548"
+  },
+  {
+    "estado": { "sigla": "BA", "estado": "Bahia" },
+    "universidade": "Universidade Federal do Oeste da Bahia - UFOB",
+    "universidade_id": "18506"
+  },
+  {
+    "estado": { "sigla": "PR", "estado": "Paraná" },
+    "universidade": "Universidade Federal do Paraná - UFPR",
+    "universidade_id": "571"
+  },
+  {
+    "estado": { "sigla": "PI", "estado": "Piauí" },
+    "universidade": "Universidade Federal do Piauí - UFPI",
+    "universidade_id": "5"
+  },
+  {
+    "estado": { "sigla": "BA", "estado": "Bahia" },
+    "universidade": "Universidade Federal do Recôncavo da Bahia - UFRB",
+    "universidade_id": "4503"
+  },
+  {
+    "estado": { "sigla": "RS", "estado": "Rio Grande do Sul" },
+    "universidade": "Universidade Federal do Rio Grande - FURG",
+    "universidade_id": "12"
+  },
+  {
+    "estado": { "sigla": "RN", "estado": "Rio Grande do Norte" },
+    "universidade": "Universidade Federal do Rio Grande do Norte - UFRN",
+    "universidade_id": "570"
+  },
+  {
+    "estado": { "sigla": "RS", "estado": "Rio Grande do Sul" },
+    "universidade": "Universidade Federal do Rio Grande do Sul - UFRGS",
+    "universidade_id": "581"
+  },
+  {
+    "estado": { "sigla": "RJ", "estado": "Rio de Janeiro" },
+    "universidade": "Universidade Federal do Rio de Janeiro - UFRJ",
+    "universidade_id": "586"
+  },
+  {
+    "estado": { "sigla": "BA", "estado": "Bahia" },
+    "universidade": "Universidade Federal do Sul da Bahia - UFESBA",
+    "universidade_id": "18812"
+  },
+  {
+    "estado": { "sigla": "BA", "estado": "Bahia" },
+    "universidade": "Universidade Federal do Sul da Bahia - UFSB",
+    "universidade_id": "18812"
+  },
+  {
+    "estado": { "sigla": "PA", "estado": "Pará" },
+    "universidade": "Universidade Federal do Sul e Sudeste do Pará - UNIFESSPA",
+    "universidade_id": "18440"
+  },
+  {
+    "estado": { "sigla": "MG", "estado": "Minas Gerais" },
+    "universidade": "Universidade Federal do Triângulo Mineiro - UFTM",
+    "universidade_id": "597"
+  },
+  {
+    "estado": { "sigla": "PR", "estado": "Paraná" },
+    "universidade": "Universidade Tecnológica Federal do Paraná - UTFPR",
+    "universidade_id": "588"
+  },
+  {
+    "estado": { "sigla": "CE", "estado": "Ceará" },
+    "universidade": "Universidade da Integração Internacional da Lusofonia Afro-brasileira",
+    "universidade_id": "15497"
+  },
+  {
+    "estado": { "sigla": "BA", "estado": "Bahia" },
+    "universidade": "Universidade da Integração Internacional da Lusofonia Afro-brasileira",
+    "universidade_id": "15497"
+  },
+  {
+    "estado": { "sigla": "DF", "estado": "Distrito Federal" },
+    "universidade": "Universidade de Brasília - UNB",
+    "universidade_id": "2"
+  },
+  {
+    "estado": { "sigla": "PE", "estado": "Pernambuco" },
+    "universidade": "Universidade de Pernambuco - UPE",
+    "universidade_id": "409"
+  },
+  {
+    "estado": { "sigla": "SP", "estado": "São Paulo" },
+    "universidade": "Universidade de São Paulo - USP",
+    "universidade_id": "55"
+  },
+  {
+    "estado": { "sigla": "BA", "estado": "Bahia" },
+    "universidade": "Universidade do Estado da Bahia - UNEB",
+    "universidade_id": "40"
+  },
+  {
+    "estado": { "sigla": "MT", "estado": "Mato Grosso" },
+    "universidade": "Universidade do Estado de Mato Grosso Carlos Alberto Reyes Maldonado - UNEMAT",
+    "universidade_id": "719"
+  },
+  {
+    "estado": { "sigla": "MG", "estado": "Minas Gerais" },
+    "universidade": "Universidade do Estado de Minas Gerais - UEMG",
+    "universidade_id": "1036"
+  },
+  {
+    "estado": { "sigla": "RN", "estado": "Rio Grande do Norte" },
+    "universidade": "Universidade do Estado do Rio Grande do Norte - UERN",
+    "universidade_id": "71"
+  },
+  {
+    "estado": { "sigla": "TO", "estado": "Tocantins" },
+    "universidade": "Universidade do Tocantins - UNITINS",
+    "universidade_id": "829"
+  }
+]
